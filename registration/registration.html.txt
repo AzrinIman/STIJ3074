@@ -1,0 +1,6 @@
+Name:
+Email:
+Password:
+Reenter Password:
+Phone:
+Address:
